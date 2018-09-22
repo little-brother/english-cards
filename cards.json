@@ -1,0 +1,7 @@
+{
+	"School": ["school", "pen", "pencil", "rubber", "ruler", "book", "pencil_case"],
+	"Classroom actions 2": ["tick", "draw_the_line", "write", "underline", "cut", "circle", "say", "number"],
+	"Action 2": ["look", "follow", "smell", "laugh", "taste", "shout", "hide", "blow", "hug", "dig"],
+	"Parts of the body 2": ["toes", "back", "feet", "body", "thumb", "finger", "heel", "ankle"],
+	"Numbers 1-10": ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"]
+}
