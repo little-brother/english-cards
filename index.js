@@ -20,13 +20,13 @@ window.addEventListener('load', function() {
 		$main.innerHTML = '';
 		Object.keys(cards).forEach(function (card) {
 			var $e = document.createElement('img');
-			$e.src = '/images/' + cards[card][0] + '.jpg';
+			$e.src = 'images/' + cards[card][0] + '.jpg';
 			$e.setAttribute('title', card);
 			$e.onclick = function () {
 				$main.innerHTML = '<div id = "buttons"><div id = "back" class = "button" title = "Back to topics">&#10006;</div><div id = "test" class = "button" title = "Run test">&#10004;</div></div>';
 				cards[card].shuffle().forEach(function (e) {
 					var $e = document.createElement('img');
-					$e.src = '/images/' + e + '.jpg';
+					$e.src = 'images/' + e + '.jpg';
 					$e.setAttribute('title', e);
 					$e.onclick = () => play(e);
 					$main.appendChild($e);
