@@ -58,7 +58,7 @@ window.addEventListener('load', function() {
 		$main.querySelector('#repeat').onclick = () => play(word);	
 		cards[card].forEach(function (e) {
 			var $e = document.createElement('img');
-			$e.src = '/images/' + e + '.jpg';
+			$e.src = 'images/' + e + '.jpg';
 			$e.setAttribute('title', e);
 			$e.onclick = function () {
 				if (word != e) {
