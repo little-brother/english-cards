@@ -4,5 +4,8 @@
 	"Action 2": ["look", "follow", "smell", "laugh", "taste", "shout", "hide", "blow", "hug", "dig"],
 	"Parts of the body 2": ["toes", "back", "feet", "body", "thumb", "finger", "heel", "ankle"],
 	"Numbers 1-10": ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"],
-	"Number 11-20": ["eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty"]
+	"Number 11-20": ["eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty"],
+	"Animals": ["cow", "horse", "pig", "sheep", "duck", "wolf", "bear", "fox", "hare", "squirrel"],
+	"Animals 2": ["elephant", "lion", "monkey", "kangaroo", "zebra", "whale", "penguin", "shark", "octopus", "dolphin"],
+	"Insects": ["spider", "dragonfly", "bee", "butterfly", "ladybird"]
 }
